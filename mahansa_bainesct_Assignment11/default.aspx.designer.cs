@@ -11,7 +11,7 @@ namespace mahansa_bainesct_Assignment11
 {
 
 
-    public partial class WebForm1
+    public partial class _default
     {
 
         /// <summary>
